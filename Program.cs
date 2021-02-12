@@ -47,10 +47,7 @@ class SqliteDataAccess
     //Untested should work, might not
     //Fix "intermidiary" table generation (kursregistrering etc.)
 
-    /// <summary>
-    /// Finished with the exception of this tying in with other tables and intermidiary table generation
-    /// </summary>
-    /// <param name="Elever"></param>
+    ///Finished with the exception of this tying in with other tables and intermidiary table generation
     #region Elever
     public static void AddElev(EleverModel Elev)
     {
@@ -76,10 +73,7 @@ class SqliteDataAccess
     }
     #endregion
 
-    /// <summary>
-    /// 
-    /// </summary>
-    /// <param name="Vårdnadshavare"></param>
+    ///Finished with the exception of this tying in with other tables and intermidiary table generation
     #region Vårdnadshavare
     public static void AddVårdnadshavare(VårdnadshavareModel Vårdnadshavare)
     {
@@ -105,6 +99,7 @@ class SqliteDataAccess
     }
     #endregion
 
+    ///Finished with the exception of this tying in with other tables and intermidiary table generation
     #region Lärare
     public static void AddLärare(LärareModel lärare)
     {
@@ -130,6 +125,7 @@ class SqliteDataAccess
     }
     #endregion
 
+    ///Incomplete, SQL code needs rewriting
     #region Kurser
     public static void AddKurs(EleverModel elev)
     {
@@ -155,6 +151,7 @@ class SqliteDataAccess
     }
     #endregion
 
+    ///Incomplete, SQL code needs rewriting
     #region Klasser
     public static void AddKlass(EleverModel elev)
     {
