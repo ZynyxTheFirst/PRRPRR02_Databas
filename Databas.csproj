@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -9,6 +9,10 @@
     <PackageReference Include="Dapper" Version="2.0.78" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
     <PackageReference Include="System.Data.SQLite.Core" Version="1.0.113.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Databas_Forms\Databas_Forms.csproj" />
   </ItemGroup>
 
   <ItemGroup>
