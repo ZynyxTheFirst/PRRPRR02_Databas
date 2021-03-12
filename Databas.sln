@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Databas", "Databas.csproj", "{5A7FFA22-D785-455D-B2F1-2BC4AD276565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabasForms", "..\DatabasForms\DatabasForms.csproj", "{AC662E6E-1CB1-43BD-8516-B3E0FD1C90C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabasForms", "..\DatabasForms\DatabasForms.csproj", "{6A499C1B-9EC1-4111-B8BA-27B8FE6B8674}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5A7FFA22-D785-455D-B2F1-2BC4AD276565}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A7FFA22-D785-455D-B2F1-2BC4AD276565}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A7FFA22-D785-455D-B2F1-2BC4AD276565}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC662E6E-1CB1-43BD-8516-B3E0FD1C90C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC662E6E-1CB1-43BD-8516-B3E0FD1C90C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC662E6E-1CB1-43BD-8516-B3E0FD1C90C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC662E6E-1CB1-43BD-8516-B3E0FD1C90C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A499C1B-9EC1-4111-B8BA-27B8FE6B8674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A499C1B-9EC1-4111-B8BA-27B8FE6B8674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A499C1B-9EC1-4111-B8BA-27B8FE6B8674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A499C1B-9EC1-4111-B8BA-27B8FE6B8674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

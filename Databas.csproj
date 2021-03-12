@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Databas_Forms\Databas_Forms.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="sqliteDatabase.db">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
